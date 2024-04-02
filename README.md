@@ -2,6 +2,8 @@
 
 This WinForm C# .NET project facilitates tracking parts and providing statuses to link the Parts Department and Service Department of a dealership.
 
+It's goal is to provide an accurate shipping Status and ETA directly through Parts Workbench Plus instead of relying on serperate software.
+
 ## Introduction
 
 The `GetETAFromPWB` method is a crucial component of this project. It automates the retrieval of Estimated Time of Arrival (ETA) data for parts from PWB+ (a website) using Chrome WebDriver through Selenium automation. It iterates over a list of parts, navigates through login pages, fetches shipment details, and updates the database with the ETA and status of each part.
