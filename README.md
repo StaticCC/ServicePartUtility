@@ -2,7 +2,7 @@
 
 This WinForm C# .NET project facilitates tracking parts and providing statuses to link the Parts Department and Service Department of a dealership.
 
-It's goal is to provide an accurate shipping Status and ETA directly through Parts Workbench Plus instead of relying on serperate software.
+It's goal is to provide an accurate shipping Status and ETA directly through Parts Workbench Plus instead of relying on separate software.
 
 ## Introduction
 
